@@ -1,0 +1,16 @@
+.Users {
+  margin: 2rem auto;
+  width: 90%;
+  max-width: 40rem;
+  ul {
+    list-style-type: none;
+    font-size: 2rem;
+    padding: 1rem;
+    li {
+      //   text-decoration: none;
+      border: 1px solid #ccc;
+      margin: 0.5rem 0;
+      padding: 0.5rem;
+    }
+  }
+}
